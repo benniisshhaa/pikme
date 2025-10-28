@@ -1,0 +1,28 @@
+.container{
+  display: flex;
+  justify-content: space-between;
+  align-item: center;
+  height: 170px;
+  font-size:12px;
+}
+.item{
+  widht: 300px;
+  height: 120px;
+  background:#FFC0CB;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+.container1{
+  display: grid;
+  grid-template-columns: repeat(5,1fr);
+  grid-gap: 90px;
+}
+
+.item1{
+  widht: 300px;
+  height: 100px;
+  background: #98FB98;
+  padding: 10px;
+  border-radius: 10px;
+}
