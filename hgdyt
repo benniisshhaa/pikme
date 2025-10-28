@@ -14,7 +14,7 @@
 <body>
 
   <header class="center"> Telegram      О нас </header>
-  <img src="https://i.pinimg.com/originals/21/0b/a9/210ba94e73115bbd31b9a7e4c8b10b66.jpg" alt="Капибара" widht="300"> </img>
+  <img> src="https://i.pinimg.com/originals/21/0b/a9/210ba94e73115bbd31b9a7e4c8b10b66.jpg" alt="Капибара" widht="300"> </img>
   <main>
 <div class="container">
   <div class="item"><h1><small>Сырная шаурма</small></h1><p>Сырный вариант — хоть и без мяса</p><p>Зато имеет богатый «внутренний мир»</p></div>
